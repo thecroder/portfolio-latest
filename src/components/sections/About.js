@@ -35,8 +35,8 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Age :</span>
-                    <span>22 Years</span>
+                    <span>Profile :</span>
+                    <span>Product Designer</span>
                   </span>
                 </span>
               </li>
@@ -60,7 +60,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Langages :</span>
-                    <span>English</span>
+                    <span>English, Hindi</span>
                   </span>
                 </span>
               </li>
@@ -86,7 +86,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Email :</span>
-                    <span>jaiswalsanjaysj2000@gmail.com</span>
+                    <span>connectwithsanjayjaiswal@gmail.com</span>
                   </span>
                 </span>
               </li>
@@ -126,15 +126,15 @@ const About = () => {
               <span>
                 <i className="devicon-figma-plain" />
               </span>
-              <h4>Figma</h4>
+              <h4>Ui/Ux</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-jquery-plain" />
+                <i className="devicon-figma-plain" />
               </span>
-              <h4>Ui/Ux</h4>
+              <h4>Wireframing</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -142,17 +142,17 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-java-plain" />
+                <i className="devicon-figma-plain" />
               </span>
-              <h4>Java</h4>
+              <h4>Figma</h4>
             </div>
             {/* SKILL ITEM ENDS */}
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-cplusplus-plain" />
+                <i className="devicon-figma-plain" />
               </span>
-              <h4>C++</h4>
+              <h4>Prototyping</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -220,7 +220,7 @@ const About = () => {
                   <h4>Ui/Ux Designer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>Jan 2023 - Now</span>
+                    <span>May 2022 - Ongoing</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
@@ -234,14 +234,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Ui/Ux Intern</h4>
+                  <h4>UI and Visual Designer - Freelance</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>June 2022- Dec 2022</span>
+                    <span>Sept 2021- April 2022</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>DataEinstein Pvt. Ltd.</span>
+                    <span>Orient Trading Company</span>
                   </p>
                 </div>
               </div>
@@ -254,7 +254,7 @@ const About = () => {
                   <h4>Visual & Ui/Ux Intern</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>May - Aug 2021</span>
+                    <span>May 2021- Aug 2021</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
@@ -268,13 +268,13 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Graphic Designer</h4>
+                  <h4>Graphic Design Intern</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>April 2020 - July 2021</span>
                   </p>
                   <p>
-                    <i className="fa-solid fa-building-columns" />
+                    <i className="fa-regular fa-building" />
                     <span>YVPL</span>
                   </p>
                 </div>
@@ -287,8 +287,8 @@ const About = () => {
                 <div className="education">
                   <h4>Bachelor in Technology</h4>
                   <p>
-                    <i className="fa-regular fa-clock" />
-                    <span>2019-2023</span>
+                    {/* <i className="fa-regular fa-book" /> */}
+                    <span>Computer Science</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />

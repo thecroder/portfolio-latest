@@ -24,7 +24,7 @@ const Testimonials = () => {
                 " Sanjay is a freelancer since 3 years and i am connected with him from last 1.5 year, his services are awesome and designs are upto the marks as per my expectation. "
               </span>
               <span className="person">Ankur Gupta</span>
-              <span className="job">Freelance Client</span>
+              <span className="job">Orient Trading Company</span>
             </p>
             {/* <img src="assets/testimonials/testimonial-2.jpg" alt="" /> */}
           </div>
